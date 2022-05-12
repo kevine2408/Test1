@@ -1,0 +1,38 @@
+/* T0XIC CSS */
+
+
+/* Always On-Screen Crosshair */
+.crosshair-static{
+    visibility: visible !important;
+    position: absolute;
+    display: flex !important;
+}
+/* Always On-Screen Crosshair */
+
+
+/* Ad Block */
+#ad-bottom,
+#ad-left {
+    width: 0px !important;
+}
+/* Ad Block */
+
+
+/* Background Wallpaper */
+#app > div.interface.text-2 > div.background {
+    background-image: url("https://cdn.discordapp.com/attachments/974413860125704232/974413887329955920/GOkP8onbuyjGmN9Rc8Que5mw21CdSw6OuXpAKUuE6-4.png")
+    background-size: 100%
+}
+#app > div.interface.text-2 > div.background > div.bg-radial {
+    position: absolute !important;
+    height: 45px !important;
+    width: 105px !important;
+    top: 64rem !important;
+    left: 0rem !important;
+    background: #ffffff00 !important;
+}
+.pattern-bg {
+    display: none;
+}
+/* Background Wallpaper */
+
